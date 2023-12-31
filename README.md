@@ -3,7 +3,7 @@ una simple calculadora :) dejo las fotos y el codigo
 Este tutorial servira SOLO CON EL ttp29 QUE ES UN TIPO DE TECLADO Y EL CODIGO SOLO FUNCIONA CON EL 
 4x4 teclas
 ### este tutoria solo vera el apartado de la programacion de una calculadora con el i2c modulo para lcd 16x2 y el teclado ttp29 :(
-## se dejan fotos (no tan claras lastimosamente de las conecciones :/)
+## NO se dejan fotos :(
 EL pin SCL de este tutorial es: 7 
 EL pin SDO es en este tutorial es: 8
 
